@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/LuizGust4vo">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGust4vo&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=LuizGust4vo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGust4vo&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="151em" src="https://github-readme-stats.vercel.app/api?username=LuizGust4vo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -21,4 +21,4 @@
 ### Tools:
 <div>
   <img align="center" alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-</div>                                                                                  
+</div>

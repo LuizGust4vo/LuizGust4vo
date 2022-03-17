@@ -14,12 +14,12 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="48" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="49" width="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+  <img align="center" alt="HTML" height="48" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
 </div>
   
 ##
   
 ### Tools:
 <div>
-  <img align="center" alt="VSCode" height="53" width="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="VSCode" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
 </div>

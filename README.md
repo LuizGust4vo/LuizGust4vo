@@ -1,7 +1,7 @@
 ## Hi, I'm Luiz Gustavo 👋
 
 - 👨‍💻 I'm currently looking for my first internship
-- 🤝 Looking to develop myself and help in any way possible
+- 🤝 Looking to develop myself and help in the best possible way
 - 📚 Currently studying JavaScript
 - 📩 Email: lalmeida727.lg@gmail.com
 

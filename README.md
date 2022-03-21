@@ -7,8 +7,8 @@
 
 <br>
 <p align="left">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuizGust4vo&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuizGust4vo&show_icons=true&theme=chartreuse-dark"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuizGust4vo&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuizGust4vo&show_icons=true&theme=chartreuse-dark"/>
 </p>
   
 <div style="display: inline_block"><br>

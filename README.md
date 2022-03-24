@@ -1,4 +1,4 @@
-## Hi, I'm Luiz Gustavo 👋
+# Hi, I'm Luiz Gustavo 👋
 
 - 👨‍💻 I'm currently looking for my first internship
 - 🤝 Looking to develop myself and help in the best possible way
@@ -11,15 +11,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuizGust4vo&show_icons=true&theme=chartreuse-dark"/>
 </p>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="48" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="48" width="53" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-</div>
-  
-##
-  
-### Tools:
-<div>
-  <img align="center" alt="VSCode" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt=Node.js" height="150" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-</div>
+## Languages: 
+[![Blog](https://icongr.am/devicon/javascript-original.svg?size=45&color=ffffff)]()
+[![Blog](https://icongr.am/devicon/html5-original.svg?size=45&color=ffffff)]()
+ 
+## Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-483D8B?style=for-the-badge&logo=visual-studio-code&logoColor=1E90FF&Color=8B0000)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=lime)&nbsp;

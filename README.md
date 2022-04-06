@@ -2,7 +2,8 @@
 
 - 📚 Atualmente estudando JavaScript
 - 👨‍💻 Estou em busca do meu primeiro estágio
-- 👨‍🎓 Cursando engenharia de software da Universidade de Brasília (UnB)
+- 🖥 Formado no curso técnico em informática para internet
+- 👨‍🎓 Cursando engenharia de software na Universidade de Brasília (UnB)
 - 🤝 Procurando me desenvovler e ajudar da melhor maneira possível
 - 📩 Email: lalmeida727.lg@gmail.com
 

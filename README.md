@@ -1,8 +1,9 @@
-# Hi, I'm Luiz Gustavo 👋
+## 👋 Oii, eu sou o Luiz Gustavo
 
-- 👨‍💻 I'm currently looking for my first internship
-- 🤝 Looking to develop myself and help in the best possible way
-- 📚 Currently studying JavaScript
+- 📚 Atualmente estudando JavaScript
+- 👨‍💻 Estou em busca do meu primeiro estágio
+- 👨‍🎓 Cursando engenharia de software da Universidade de Brasília (UnB)
+- 🤝 Procurando me desenvovler e ajudar da melhor maneira possível
 - 📩 Email: lalmeida727.lg@gmail.com
 
 <br>

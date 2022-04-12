@@ -4,7 +4,7 @@
 - 👨‍💻 Estou em busca do meu primeiro estágio
 - 🖥 Formado no curso técnico em informática para internet
 - 👨‍🎓 Cursando engenharia de software
-- 🤝 Procurando me desenvovler e ajudar da melhor maneira possível
+- 🤝 Procurando me desenvolver e ajudar da melhor maneira possível
 - 📩 Email: lalmeida727.lg@gmail.com
 
 <br>

@@ -16,6 +16,7 @@
 ## Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF4500?style=for-the-badge&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-F0FFFF?style=for-the-badge&logo=html5)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
  
 ## Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-483D8B?style=for-the-badge&logo=visual-studio-code&logoColor=1E90FF&Color=8B0000)&nbsp;

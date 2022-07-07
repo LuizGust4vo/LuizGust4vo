@@ -1,6 +1,6 @@
 ## 👋 Oii, eu sou o Luiz Gustavo
 
-- 📚 Atualmente estudando JavaScript
+- 📚 Atualmente estudando C e JavaScript
 - 👨‍💻 Estou em busca do meu primeiro estágio
 - 🖥 Formado no curso técnico em informática para internet
 - 👨‍🎓 Cursando engenharia de software (UnB)

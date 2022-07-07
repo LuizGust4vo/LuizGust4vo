@@ -2,7 +2,7 @@
 
 - 📚 Atualmente estudando C e JavaScript
 - 👨‍💻 Estou em busca do meu primeiro estágio
-- 🖥 Formado no curso técnico em informática para internet
+- 🖥 Formado em curso técnico de informática para internet
 - 👨‍🎓 Cursando engenharia de software (UnB)
 - 🤝 Procurando me desenvolver e ajudar da melhor maneira possível
 - 📩 Email: lalmeida727.lg@gmail.com

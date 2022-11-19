@@ -1,9 +1,9 @@
 ## 👋 Oii, eu sou o Luiz Gustavo
 
-- 📚 Atualmente estudando C e JavaScript
+- 📚 Atualmente estudando Java
 - 👨‍💻 Estou em busca do meu primeiro estágio
 - 🖥 Formado em curso técnico de informática para internet
-- 👨‍🎓 Cursando engenharia de software (UnB)
+- 👨‍🎓 Cursando 2º semestre de engenharia de software (UnB)
 - 🤝 Procurando me desenvolver e ajudar da melhor maneira possível
 - 📩 Email: lalmeida727.lg@gmail.com
 

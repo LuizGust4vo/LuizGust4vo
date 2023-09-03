@@ -1,11 +1,14 @@
 ## 👋 Oii, eu sou o Luiz Gustavo
 
-- 📚 Atualmente estudando Java
-- 👨‍💻 Estou em busca do meu primeiro estágio
+- 📚 Atualmente estudando:
+<br/>  -> Metodologias ágeis;
+<br/>  -> Linguagem C focada em estrutura de dados.
+- 👨‍💻 Em busca do meu primeiro estágio
 - 🖥 Formado em curso técnico de informática para internet
-- 👨‍🎓 Cursando 2º semestre de engenharia de software (UnB)
+- 👨‍🎓 Cursando 4º semestre de engenharia de software (UnB)
 - 🤝 Procurando me desenvolver e ajudar da melhor maneira possível
 - 📩 Email: lalmeida727.lg@gmail.com
+- 🏢 LinkedIn: https://www.linkedin.com/in/luiz-almeida-634526167/
 
 <br>
 <p align="left">

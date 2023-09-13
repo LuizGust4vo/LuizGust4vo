@@ -20,9 +20,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML](https://img.shields.io/badge/-HTML-F0FFFF?style=for-the-badge&logo=html5)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-FF4500?style=for-the-badge&logo=openjdk&logoColor=white)
  
 ## Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-483D8B?style=for-the-badge&logo=visual-studio-code&logoColor=1E90FF&Color=8B0000)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=lime)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FFA500.svg?style=for-the-badge&logo=Eclipse&logoColor=midnightblue)
+![Eclipse](https://img.shields.io/badge/Eclipse-FFFFFF.svg?style=for-the-badge&logo=Eclipse&logoColor=midnightblue)

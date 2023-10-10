@@ -2,7 +2,8 @@
 
 - 📚 Atualmente estudando:
 <br/>  -> Metodologias ágeis de desenvolvimento (XP, Scrum e Kanban);
-<br/>  -> Linguagem C focada em estrutura de dados.
+<br/>  -> Linguagem C focada em estrutura de dados;
+<br/>  -> Webscraping com Python.
 - 👨‍💻 Em busca do meu primeiro estágio
 - 🖥 Formado em curso técnico de informática para internet
 - 👨‍🎓 Cursando 4º semestre de engenharia de software (UnB)

@@ -28,3 +28,4 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=black&color=black&labelColor=dodgerblue)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FFFFFF.svg?style=for-the-badge&logo=Eclipse&logoColor=midnightblue)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-363636.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)

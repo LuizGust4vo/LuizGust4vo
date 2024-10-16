@@ -1,13 +1,12 @@
 ## 👋 Oii, eu sou o Luiz Gustavo
 
 - 📚 Atualmente estudando:
-<br/>  -> Metodologias ágeis de desenvolvimento (XP, Scrum e Kanban);
-<br/>  -> Linguagem C focada em estrutura de dados;
-<br/>  -> Webscraping com Python.
-//- 👨‍💻 Em busca do meu primeiro estágio"
+<br/>  -> Arquitetura e desenho de software;
+<br/>  -> Testes de software
 - 🖥 Formado em curso técnico de informática para internet
-- 👨‍🎓 Cursando 5º semestre de engenharia de software (UnB)
-- 🤝 Procurando me desenvolver e ajudar da melhor maneira possível
+- 👨‍🎓 Cursando 6º semestre de engenharia de software (UnB)
+- 👨‍💻 Em desenvolvimento constante
+- 🤝 Procurando contribuir da melhor maneira possível
 - 📩 Email: lalmeida727.lg@gmail.com
 - 🏢 LinkedIn: https://www.linkedin.com/in/luiz-almeida-634526167/
 

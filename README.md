@@ -2,11 +2,12 @@
 
 - 📚 Atualmente estudando:
 <br/>  -> Arquitetura e desenho de software;
-<br/>  -> Testes de software
+<br/>  -> Testes de software.
 - 🖥 Formado em curso técnico de informática para internet
 - 👨‍🎓 Cursando 6º semestre de engenharia de software (UnB)
 - 👨‍💻 Em desenvolvimento constante
 - 🤝 Procurando contribuir da melhor maneira possível
+- 📊 Além de software, possuo grande interesse por finanças, investimentos e empreendedorismo
 - 📩 Email: lalmeida727.lg@gmail.com
 - 🏢 LinkedIn: https://www.linkedin.com/in/luiz-almeida-634526167/
 

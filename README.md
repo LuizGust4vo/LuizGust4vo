@@ -1,10 +1,10 @@
 ## 👋 Oii, eu sou o Luiz Gustavo
 
 - 📚 Atualmente estudando:
-<br/>  -> Arquitetura e desenho de software;
+<br/>  -> Estrutura de Dados;
 <br/>  -> Testes de software.
 - 🖥 Formado em curso técnico de informática para internet
-- 👨‍🎓 Cursando 6º semestre de engenharia de software (UnB)
+- 👨‍🎓 Cursando engenharia de software (UnB)
 - 👨‍💻 Em desenvolvimento constante
 - 🤝 Procurando contribuir da melhor maneira possível
 - 📊 Além de software, possuo grande interesse por finanças, investimentos e empreendedorismo
